@@ -1,5 +1,7 @@
 # OpenGL Rendering Reference Files
 
+OpenGL render engine files to use for reference.
+
 ### Libraries/Resources
 * [OpenGl](https://www.opengl.org/)
 * [GLAD](https://glad.dav1d.de/)
