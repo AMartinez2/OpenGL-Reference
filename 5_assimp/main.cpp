@@ -77,11 +77,11 @@ int main()
 
 	// build and compile shaders
 	// -------------------------
-	Shader ourShader("1.lamp.vert", "1.lamp.frag");
+	Shader ourShader("model.vert", "model.frag");
 
 	// load models
 	// -----------
-	Model ourModel("nanosuit.obj");
+	Model ourModel("planet/planet.obj");
 
 
 	// draw in wireframe
